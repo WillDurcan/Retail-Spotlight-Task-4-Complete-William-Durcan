@@ -1,0 +1,13 @@
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.Form1.resources
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.Properties.Resources.resources
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.csproj.GenerateResource.cache
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\bin\Debug\Task4forSplotlight.exe.config
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\bin\Debug\Task4forSplotlight.exe
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\bin\Debug\Task4forSplotlight.pdb
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.exe
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.pdb
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Will\source\repos\Task4forSplotlight\Task4forSplotlight\obj\Debug\Task4forSplotlight.csproj.CopyComplete
